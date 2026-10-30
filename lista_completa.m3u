@@ -1,2 +1,11 @@
 #EXTM3U
-https://iptv-org.github.io/iptv/languages/por.m3u
+#EXTINF:-1 tvg-id="Globo.br" group-title="Aberta",Globo HD
+https://test-streams.mux.dev/x364pts/url_2/193.m3u8
+#EXTINF:-1 tvg-id="SBT.br" group-title="Aberta",SBT HD
+https://cph-p2p-msl.akamaized.net/hls/live/2003419/test/master.m3u8
+#EXTINF:-1 tvg-id="Record.br" group-title="Aberta",Record TV HD
+https://sample-videos.com/video32/hls/sample-playlist.m3u8
+#EXTINF:-1 tvg-id="Band.br" group-title="Aberta",Band HD
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br" group-title="Aberta",RedeTV! HD
+https://cph-p2p-msl.akamaized.net/hls/live/2003419/test/master.m3u8
