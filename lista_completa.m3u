@@ -1,5 +1,431 @@
 #EXTM3U
-#EXTINF:-1 group-title="Testes",Big Buck Bunny (HLS)
-https://test-streams.mux.dev/x364pts/url_2/193.m3u8
-#EXTINF:-1 group-title="Testes",Tears of Steel (HLS)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 group-title="SHOP",1001 Noites (480p)
+https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT;GENERAL;MOVIES;MUSIC",+MaisUm (720p)
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",A&E Latin America Brazil (720p)
+http://170.83.16.50/AeE/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",Blitstv
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",Chroma TV (480p)
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",Conecta Mais TV (720p)
+https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",Discovery Channel Latin America Brazil (720p)
+http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",ElyTV (360p)
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",Lifetime Latin America Brazil (720p)
+http://170.83.16.50/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",Loading (720p)
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",Rede NGT (1080p)
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",TV Curuca (360p)
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",TV GRANDE NATAL HDTV BRASIL (1080p)
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",TV Vicosa (480p)
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",TV+Pet
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",TVI Reality (720p) [Not 24/7]
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT",UMA TV
+https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",ADB TV (1080p)
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",Angel TV Portuguese (720p)
+https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",Despertar TV (720p)
+https://br.conectmy.com.br/DespertarTV/index.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",Gospel Cartoon (360p)
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",Gospel Movie TV (360p)
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",IMPD TV Worldwide (1080p)
+https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",KK TV (1080p)
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",Kuriakos TV (1080p)
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",Mana Igreja Online (1080p) [Not 24/7]
+https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",Novo Tempo (720p)
+http://45.162.64.114/NOVO_TEMPO/index.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",Plenitude TV
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",Rede Gospel (1080p)
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",Rede Seculo 21 (720p)
+http://45.162.64.114/REDE_SECULO_21/index.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",SBN TV Global (720p)
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",TV Aparecida (720p)
+http://45.162.64.114/TV_APARECIDA/index.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",TV Evangelizar (720p)
+http://45.162.64.114/EVANGELIZAR/index.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",TV Mana 1 (1080p)
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",TV Mana 2 (1080p)
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",TV Mana Brasil (1080p)
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",TV Mana Mocambique (1080p)
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",TV Padre Cicero (720p)
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",TV Pai Eterno (720p)
+http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",TV Terceiro Anjo (360p)
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOUS",TV Universal (480p)
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",Araruna TV
+https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",Canal Sete
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",Catve2 (720p)
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",Catve FM (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",Catve Master TV (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",Cinturao Verde
+https://play.redecinturaoverde.com.br/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",COM Brasil (720p)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+#EXTINF:-1 group-title="GENERAL",ConecTV Brasil (720p)
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 group-title="GENERAL",Conexao TV (720p)
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",Cultura Fast (720p)
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:-1 group-title="GENERAL",Fala Litoral (480p)
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",MBC Brasil TV
+https://play.mbcbrasil.tv.br/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",O Dia TV
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",Porto Canal (720p)
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",Primer TV (1080p)
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",Radio Sines (720p) [Geo-blocked]
+https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",RBATV (720p)
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",Rede Brasil (1080p)
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="GENERAL",Rede CNT Salvador (576i)
+http://168.205.87.198:8555/live/1368/123456/150.m3u8
+#EXTINF:-1 group-title="GENERAL",Rede SPTV (360p)
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",Rede TV! SD (720p)
+http://45.162.64.114/REDE_TV/index.m3u8
+#EXTINF:-1 group-title="GENERAL",Rede TV! Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",RTP 1 (720p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",RTP 2 (720p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",RTP Acores (720p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",RTP Acores SD (504p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",RTP Africa (504p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",RTP Madeira SD (504p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",RTP Mundo (504p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",SBT Cuiaba
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",SOU TV
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TV Aldeia (720p)
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TV Alianca Catarinense (720p)
+https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TV Alternativa (410p)
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TV BRICS Portuguese (1080p)
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TV Comunitaria (360p)
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+#EXTINF:-1 group-title="GENERAL",TV Difusao (720p)
+https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TV Guarapari (720p)
+https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TV Litoral RN (720p)
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TV Mais Marica (1080p)
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TV Marajoara (720p)
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TV Metropole (720p) [Not 24/7]
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TV Passo Fundo (720p)
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TV Petropolis (720p)
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TV Sao Raimundo (268p)
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TV Zimbo (1080p)
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
+#EXTINF:-1 group-title="GENERAL",TVC-Rio
+https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TVCOM Maceio (480p)
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:-1 group-title="GENERAL",TVI (720p)
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
+#EXTINF:-1 group-title="GENERAL",TVitape (720p)
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 group-title="GENERAL",TVLatinaSat (720p)
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 group-title="GENERAL",V+ TVI (720p)
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
+#EXTINF:-1 group-title="MOVIES",AMC Latin America Brazil (720p)
+http://170.83.49.66:8083/AMCHD/index.m3u8
+#EXTINF:-1 group-title="MOVIES",AXN (Brazil) (720p)
+http://170.83.16.50/AXN/index.m3u8
+#EXTINF:-1 group-title="MOVIES",AXN Movies (Portugal) (720p)
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1 group-title="MOVIES",CINDIE TV (1080p)
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 group-title="MOVIES",Classique TV (360p)
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",Kuriakos Cine (1080p)
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",MyTime Movie Network (Brazil) (720p)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",Sony Movies (Brazil) (720p)
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 group-title="OUTDOOR",Canal Rural (720p)
+http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+#EXTINF:-1 group-title="OUTDOOR",Terra Viva (720p)
+http://45.162.64.114/TERRAVIVA/index.m3u8
+#EXTINF:-1 group-title="EDUCATION;OUTDOOR",AgroCanal (720p)
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+#EXTINF:-1 group-title="NEWS",AgroMais (720p)
+http://45.162.64.114/AGROMAIS/index.m3u8
+#EXTINF:-1 group-title="NEWS",Aratu On
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 group-title="NEWS",Canal Metropolitano de Noticias
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 group-title="NEWS",CNN Brasil (1080p)
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="NEWS",J3NEWS TV
+https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
+#EXTINF:-1 group-title="NEWS",Jovem Pan News (720p)
+http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
+#EXTINF:-1 group-title="NEWS",Record News (720p)
+http://45.162.64.114/RECORD_NEWS/index.m3u8
+#EXTINF:-1 group-title="NEWS",RTP Noticias (720p) [Not 24/7]
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS",RTP Noticias SD (504p) [Not 24/7]
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS",SBT News (720p)
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 group-title="NEWS",TCM 10 HD (1080p)
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 group-title="NEWS",Times Brasil (720p)
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+#EXTINF:-1 group-title="NEWS",TV A Folha (720p)
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 group-title="NEWS",TV Brusque (720p)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 group-title="NEWS",TV Sim Cachoeiro (720p)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 group-title="NEWS",TV Sim Sao Mateus (720p)
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 group-title="NEWS",TVideoNews (720p) [Not 24/7]
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 group-title="NEWS",VEJA+ TV (1080p)
+https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:-1 group-title="UNDEFINED",Amazon Sat (1080p)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",Canal do Boi (720p)
+http://45.162.64.114/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",L!ke (1080p)
+https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
+#EXTINF:-1 group-title="UNDEFINED",Nova Era TV (1080p) [Not 24/7]
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 group-title="UNDEFINED",Play TV (Brazil) (720p)
+http://45.162.64.114/PLAY_TV/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",Rede CNT Rio de Janeiro (720p)
+http://45.162.64.114/CNT/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",Rede Meio Norte (720p)
+https://maystreaming.cloudecast.com/redemeio/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",RedeTV! Parana
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 group-title="UNDEFINED",SBT Nacional (1080p)
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 group-title="UNDEFINED",SBT Nova Mutum
+https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+#EXTINF:-1 group-title="UNDEFINED",SBT Rondonopolis
+https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
+#EXTINF:-1 group-title="UNDEFINED",SIC Alta Definicao (1080p)
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+#EXTINF:-1 group-title="UNDEFINED",SIC Replay (1080p)
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+#EXTINF:-1 group-title="UNDEFINED",SIC TV (720p)
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",Sony Channel (Brazil) (720p)
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",Studio Universal Latin America Brazil (720p)
+http://187.102.210.46/universo/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",TV A Critica
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
+#EXTINF:-1 group-title="UNDEFINED",TV Brasil (720p)
+http://45.162.64.114/TV_BRASIL/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",TV Cancao Nova (720p)
+http://45.162.64.114/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",TV Cidade Verde Cuiaba
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",TV Clube (720p)
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 group-title="UNDEFINED",TV Cultura (720p)
+http://45.162.64.114/TV_CULTURA/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",TV Fronteira (480i)
+https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",TV Gazeta (720p)
+http://45.162.64.114/TV_GAZETA/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",TV Guara (720p) [Not 24/7]
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:-1 group-title="UNDEFINED",TV Justica (720p)
+http://45.162.64.114/TV_JUSTICA/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",TV Pantanal MS (360p) [Not 24/7]
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 group-title="UNDEFINED",TV Senado (Brazil) (720p)
+http://45.162.64.114/TV_SENADO/index.m3u8
+#EXTINF:-1 group-title="UNDEFINED",TV Sul Bahia (320p)
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="UNDEFINED",TVE Bahia (1080p)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="UNDEFINED",WooHoo (720p)
+http://45.162.64.114/WOOHOO/index.m3u8
+#EXTINF:-1 group-title="CULTURE",Arte 1 (720p)
+http://45.162.64.114/ARTE1/index.m3u8
+#EXTINF:-1 group-title="CULTURE",TV Life America (720p)
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:-1 group-title="LEGISLATIVE",ARTV (720p) [Not 24/7]
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 group-title="LEGISLATIVE",EbS (1080p)
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+#EXTINF:-1 group-title="LEGISLATIVE",EbS+ (1080p)
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+#EXTINF:-1 group-title="LEGISLATIVE",TV Camara (Brazil) (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="KIDS",BabyFirst (720p)
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+#EXTINF:-1 group-title="KIDS",Box Kids TV (720p)
+http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+#EXTINF:-1 group-title="KIDS",DumDum (720p)
+http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+#EXTINF:-1 group-title="KIDS",Nickelodeon (Brazil) (480p)
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",Reino Infantil
+https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
+#EXTINF:-1 group-title="CLASSIC;SERIES",AWTV (1080p) [Geo-blocked]
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="SPORTS",CazeTV
+http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS",DAZN 3 Portugal (720p)
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+#EXTINF:-1 group-title="SPORTS",DAZN 4 (540p)
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+#EXTINF:-1 group-title="SPORTS",DAZN 5 (720p)
+http://23.237.104.106:8080/DAZN_5/index.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN 4 (Brazil) (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="SPORTS",ESPN (Brazil) (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="SPORTS",FIFA+ Portuguese (720p)
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="CULTURE;EDUCATION",Bem Mais TV (1080p)
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:-1 group-title="CULTURE;EDUCATION",TVE RS (1080p)
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="CULTURE;EDUCATION",Unisul TV (720p)
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:-1 group-title="EDUCATION",Canal Educacao (720p)
+http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 group-title="EDUCATION",Canal Futura (720p)
+http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:-1 group-title="EDUCATION",Futura (720p)
+http://170.83.49.66:8083/FUTURAHD/index.m3u8
+#EXTINF:-1 group-title="EDUCATION",ISTV (Brazil) (720p) [Not 24/7]
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 group-title="EDUCATION",Rede Minas (720p)
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 group-title="EDUCATION;GENERAL",Canal FDR
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 group-title="ANIMATION;KIDS",Cartoon Network Latin America Brazil (720p)
+http://45.162.64.114/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="ANIMATION;KIDS",Disney Channel Latin America Mexico (720p)
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:-1 group-title="ANIMATION;KIDS",Disney Channel Latin America Panregional HD (1080p)
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 group-title="ANIMATION;KIDS",NickOnline HD (720p)
+https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 group-title="ANIMATION;KIDS",Tooncast (1080p)
+http://38.134.250.110:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="COMEDY",Comedy Central Brasil (480p)
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+#EXTINF:-1 group-title="COMEDY",Fora Tedio TV (720p)
+https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+#EXTINF:-1 group-title="SERIES",TNT Novelas Brazil (720p)
+http://45.162.64.114/TNT_NOVELAS/index.m3u8
+#EXTINF:-1 group-title="SERIES",TV Series (480p)
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 group-title="SERIES",TVI Ficcao (720p)
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
+#EXTINF:-1 group-title="MUSIC",Famatv (1080p) [Not 24/7]
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+#EXTINF:-1 group-title="MUSIC",KpopTV Play (576p)
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Kuriakos Music (1080p)
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Lamore Rock Show WebTV (720p)
+https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Muzangala TV (1080p)
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",ON FM (720p)
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",TikTok Radio Brasil (1080p)
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
+#EXTINF:-1 group-title="MUSIC",Trace Brazuca HD (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Trace Toca (1080p)
+https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
+#EXTINF:-1 group-title="MUSIC",Trace Urban HD (1080p)
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
+#EXTINF:-1 group-title="MUSIC",TV Cidade
+https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",XITE Nuevo Latino (1080p)
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 group-title="MUSIC",XITE Siempre Latino (1080p)
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+#EXTINF:-1 group-title="ANIMATION;KIDS;RELIGIOUS",Kuriakos Kids (1080p)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 group-title="BUSINESS",MNTV
+https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
+#EXTINF:-1 group-title="CLASSIC",Retro Cartoon (720p)
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT;GENERAL",NTV (Brazil) (720p)
+https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
+#EXTINF:-1 group-title="OUTDOOR;SPORTS",Red Bull TV BR (1080p)
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="CULTURE;NEWS",STZ TV (1080p)
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 group-title="TRAVEL",TV Parana Turismo (720p) [Not 24/7]
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT;GENERAL;NEWS",TV Natal (1080p)
+http://185.228.163.146:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT;FAMILY;GENERAL;NEWS",TV Paraense (720p)
+https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+#EXTINF:-1 group-title="CULTURE;EDUCATION;PUBLIC",TV UFOP (1080p)
+https://app.tvufop.com.br/hls/tvufop.m3u8
