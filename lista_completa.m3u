@@ -25,8 +25,6 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",TV GRANDE NATAL HDTV BRASIL (1080p)
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT",TV Vicosa (480p)
-http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",TV+Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT",TVI Reality (720p) [Not 24/7]
@@ -173,8 +171,6 @@ https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 group-title="GENERAL",TV Zimbo (1080p)
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
-#EXTINF:-1 group-title="GENERAL",TVC-Rio
-https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 group-title="GENERAL",TVCOM Maceio (480p)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 group-title="GENERAL",TVI (720p)
@@ -257,8 +253,6 @@ http://45.162.64.114/PLAY_TV/index.m3u8
 http://45.162.64.114/CNT/index.m3u8
 #EXTINF:-1 group-title="UNDEFINED",Rede Meio Norte (720p)
 https://maystreaming.cloudecast.com/redemeio/index.m3u8
-#EXTINF:-1 group-title="UNDEFINED",RedeTV! Parana
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 group-title="UNDEFINED",SBT Nacional (1080p)
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 group-title="UNDEFINED",SBT Nova Mutum
@@ -315,8 +309,6 @@ https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 #EXTINF:-1 group-title="LEGISLATIVE",EbS+ (1080p)
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
-#EXTINF:-1 group-title="LEGISLATIVE",TV Camara (Brazil) (1080p)
-https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 group-title="KIDS",BabyFirst (720p)
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 group-title="KIDS",Box Kids TV (720p)
@@ -325,24 +317,18 @@ http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 #EXTINF:-1 group-title="KIDS",Nickelodeon (Brazil) (480p)
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Reino Infantil
-https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
 #EXTINF:-1 group-title="CLASSIC;SERIES",AWTV (1080p) [Geo-blocked]
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 group-title="SPORTS",CazeTV
 http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS",DAZN 3 Portugal (720p)
 http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1 group-title="SPORTS",DAZN 4 (540p)
-http://23.237.104.106:8080/DAZN_4/index.m3u8
 #EXTINF:-1 group-title="SPORTS",DAZN 5 (720p)
 http://23.237.104.106:8080/DAZN_5/index.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPN 4 (Brazil) (1080p)
 http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPN (Brazil) (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 group-title="SPORTS",FIFA+ Portuguese (720p)
-https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="CULTURE;EDUCATION",Bem Mais TV (1080p)
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 group-title="CULTURE;EDUCATION",TVE RS (1080p)
@@ -369,12 +355,8 @@ http://45.166.93.156:9999/play/a0f3/index.m3u8
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 #EXTINF:-1 group-title="ANIMATION;KIDS",NickOnline HD (720p)
 https://x1colegal.com/hls/stream.m3u8
-#EXTINF:-1 group-title="ANIMATION;KIDS",Tooncast (1080p)
-http://38.134.250.110:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="COMEDY",Comedy Central Brasil (480p)
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
-#EXTINF:-1 group-title="COMEDY",Fora Tedio TV (720p)
-https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 #EXTINF:-1 group-title="SERIES",TNT Novelas Brazil (720p)
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
 #EXTINF:-1 group-title="SERIES",TV Series (480p)
@@ -393,8 +375,6 @@ https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",ON FM (720p)
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",TikTok Radio Brasil (1080p)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 #EXTINF:-1 group-title="MUSIC",Trace Brazuca HD (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC",Trace Toca (1080p)
@@ -403,10 +383,6 @@ https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 #EXTINF:-1 group-title="MUSIC",TV Cidade
 https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",XITE Nuevo Latino (1080p)
-https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-#EXTINF:-1 group-title="MUSIC",XITE Siempre Latino (1080p)
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 #EXTINF:-1 group-title="ANIMATION;KIDS;RELIGIOUS",Kuriakos Kids (1080p)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 group-title="BUSINESS",MNTV
@@ -415,8 +391,6 @@ https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT;GENERAL",NTV (Brazil) (720p)
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
-#EXTINF:-1 group-title="OUTDOOR;SPORTS",Red Bull TV BR (1080p)
-https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="CULTURE;NEWS",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 group-title="TRAVEL",TV Parana Turismo (720p) [Not 24/7]
@@ -449,24 +423,18 @@ http://governosptx.org:80/3llohwk4g9/kwf099q30o/21683.m3u8
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/43933.m3u8
 #EXTINF:-1 group-title="CANAIS: FILMES E SÉRIES ✨",WARNER
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/21684.m3u8
-
 #EXTINF:-1 group-title="CANAIS: DOCUMENTÁRIOS ✨",ANIMAL PLANET
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/304493.m3u8
 #EXTINF:-1 group-title="CANAIS: DOCUMENTÁRIOS ✨",HISTORY
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/304497.m3u8
-
-
 #EXTINF:-1 group-title="CANAIS: BAND ✨",BAND BAHIA
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/1166299.m3u8
 #EXTINF:-1 group-title="CANAIS: BAND ✨",BAND RJ
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/20524.m3u8
-
 #EXTINF:-1 group-title="CANAIS: ESPORTES ⚽",COMBATE
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13506.m3u8
-
 #EXTINF:-1 group-title="CANAIS: NOTÍCIAS ✨",GLOBO NEWS
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13523.m3u8
-
 #EXTINF:-1 group-title="CANAIS: INFANTIS ✨",CARTOON NETWORK
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13504.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS ✨",CARTOONITO
@@ -477,7 +445,6 @@ http://governosptx.org:80/3llohwk4g9/kwf099q30o/13526.m3u8
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/69036.m3u8
 #EXTINF:-1 group-title="CANAIS: INFANTIS ✨",TOONSCAST
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/125444.m3u8
-
 #EXTINF:-1 group-title="CANAIS: VARIEDADES ✨",BIS
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13502.m3u8
 #EXTINF:-1 group-title="CANAIS: VARIEDADES ✨",CURTA
@@ -490,14 +457,12 @@ http://governosptx.org:80/3llohwk4g9/kwf099q30o/13527.m3u8
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/8996.m3u8
 #EXTINF:-1 group-title="CANAIS: VARIEDADES ✨",LIFETIME
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13538.m3u8
-
 #EXTINF:-1 group-title="CANAIS: CINE SKY ✨",CINE SKY 01
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13071.m3u8
 #EXTINF:-1 group-title="CANAIS: CINE SKY ✨",CINE SKY 02
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13072.m3u8
 #EXTINF:-1 group-title="CANAIS: CINE SKY ✨",CINE SKY 05
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13075.m3u8
-
 #EXTINF:-1 group-title="CANAIS: PPV / ESPORTES ⚽",SPORTYNET
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/1165167.m3u8
 #EXTINF:-1 group-title="CANAIS: PARAMOUNT + LIBERTADORES ⚽",PARAMOUNT + 1
@@ -508,14 +473,12 @@ http://governosptx.org:80/3llohwk4g9/kwf099q30o/240739.m3u8
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/295698.m3u8
 #EXTINF:-1 group-title="CANAIS: PARAMOUNT + LIBERTADORES ⚽",PARAMOUNT + 4
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/295699.m3u8
-
 #EXTINF:-1 group-title="CANAIS: PRIME VIDEO ⚽",PRIME VIDEO 01
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/292698.m3u8
 #EXTINF:-1 group-title="CANAIS: PRIME VIDEO ⚽",PRIME VIDEO 02
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/121180.m3u8
 #EXTINF:-1 group-title="CANAIS: PRIME VIDEO ⚽",PRIME VIDEO 05
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/246819.m3u8
-
 #EXTINF:-1 group-title="CANAIS: ABERTOS ✨",CULTURA PA
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/21022.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS ✨",CANAL DO BOI
@@ -530,7 +493,6 @@ http://governosptx.org:80/3llohwk4g9/kwf099q30o/67852.m3u8
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/69905.m3u8
 #EXTINF:-1 group-title="CANAIS: ABERTOS ✨",TV JUSTIÇA
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/69907.m3u8
-
 #EXTINF:-1 group-title="CANAIS: DISCOVERY ✨",DISCOVERY CHANNEL
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13508.m3u8
 #EXTINF:-1 group-title="CANAIS: DISCOVERY ✨",DISCOVERY HOME & HEALTH
@@ -543,25 +505,18 @@ http://governosptx.org:80/3llohwk4g9/kwf099q30o/13511.m3u8
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13512.m3u8
 #EXTINF:-1 group-title="CANAIS: DISCOVERY ✨",DISCOVERY WORLD
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13513.m3u8
-
 #EXTINF:-1 group-title="CANAIS: ESPN ⚽",ESPN
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/598913.m3u8
-#EXTINF:-1 group-title="CANAIS: ESPN ⚽",ESPN 2
-http://governosptx.org:80/3llohwk4g9/kwf099q30o/13519.m3u8
 #EXTINF:-1 group-title="CANAIS: ESPN ⚽",ESPN 3
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13520.m3u8
 #EXTINF:-1 group-title="CANAIS: ESPN ⚽",ESPN 4
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/21647.m3u8
 #EXTINF:-1 group-title="CANAIS: ESPN ⚽",ESPN 5
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/20946.m3u8
-
 #EXTINF:-1 group-title="CANAIS: RELIGIOSOS ⭐",REDE VIDA
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/69259.m3u8
 #EXTINF:-1 group-title="CANAIS: RELIGIOSOS ⭐",NOVO TEMPO
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/21019.m3u8
-
-#EXTINF:-1 group-title="CANAIS: HBO ✨",HBO 2
-http://governosptx.org:80/3llohwk4g9/kwf099q30o/13529.m3u8
 #EXTINF:-1 group-title="CANAIS: HBO ✨",HBO FAMILY
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13530.m3u8
 #EXTINF:-1 group-title="CANAIS: HBO ✨",HBO MUNDI
@@ -572,9 +527,6 @@ http://governosptx.org:80/3llohwk4g9/kwf099q30o/13533.m3u8
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13534.m3u8
 #EXTINF:-1 group-title="CANAIS: HBO ✨",HBO XTREME
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13536.m3u8
-
-#EXTINF:-1 group-title="CANAIS: RECORD ✨",RECORD GOIAS
-http://governosptx.org:80/3llohwk4g9/kwf099q30o/106096.m3u8
 #EXTINF:-1 group-title="CANAIS: RECORD ✨",RECORD MINAS
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/9055.m3u8
 #EXTINF:-1 group-title="CANAIS: RECORD ✨",RECORD RJ
@@ -583,34 +535,26 @@ http://governosptx.org:80/3llohwk4g9/kwf099q30o/106095.m3u8
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/241952.m3u8
 #EXTINF:-1 group-title="CANAIS: RECORD ✨",RECORD BAHIA
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/291649.m3u8
-
 #EXTINF:-1 group-title="CANAIS: SBT ✨",SBT
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/26722.m3u8
-
 #EXTINF:-1 group-title="CANAIS: SPORTV ⚽",SPORTV
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/69096.m3u8
 #EXTINF:-1 group-title="CANAIS: SPORTV ⚽",SPORTV 2
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13586.m3u8
-
 #EXTINF:-1 group-title="CANAIS: TELECINE ✨",TELECINE ACTION
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/24533.m3u8
 #EXTINF:-1 group-title="CANAIS: TELECINE ✨",TELECINE CULT
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/24534.m3u8
 #EXTINF:-1 group-title="CANAIS: TELECINE ✨",TELECINE FUN
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/24535.m3u8
-#EXTINF:-1 group-title="CANAIS: TELECINE ✨",TELECINE PIPOCA
-http://governosptx.org:80/3llohwk4g9/kwf099q30o/24536.m3u8
 #EXTINF:-1 group-title="CANAIS: TELECINE ✨",TELECINE PREMIUM
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/24537.m3u8
 #EXTINF:-1 group-title="CANAIS: TELECINE ✨",TELECINE TOUCH
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/24538.m3u8
-
 #EXTINF:-1 group-title="CANAIS: NOVELAS GLOBOPLAY ✨",NOVELAS GLOBOPLAY
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13496.m3u8
 #EXTINF:-1 group-title="CANAIS: MÚSICA ✨",MULTISHOW
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13540.m3u8
-
-
 #EXTINF:-1 group-title="ANIME E TOKUSATSU",Anime TV 🟢
 https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ANIME E TOKUSATSU",Loading TV ᴴᴰ 🟢
@@ -649,8 +593,6 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8?ROGERIOTORRES
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS",Canal Educação ᴴᴰ 🟢
 https://canaleducacao-stream.ebc.com.br/index.m3u8?ROGERIOTORRES
-#EXTINF:-1 group-title="CANAIS ABERTOS",FonteTV ᴴᴰ 🟢
-https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1017652728.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS",Record TV ᴴᴰ (RN) 🟢
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS",Rede Familia ᴴᴰ 🟢
@@ -685,8 +627,6 @@ https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8?ROGERIOTORRES
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES",GeFast ᴴᴰ 🟢
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8?ROGERIOTORRES
-#EXTINF:-1 group-title="ESPORTES",GPTV ᴴᴰ 🟢
-https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES",Racer Brasil ᴴᴰ 🟢
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES",Red Bull TV ᴴᴰ (ENG) 🟢
@@ -783,8 +723,6 @@ https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
 https://cdn-5.nxplay.com.br/HALLOMUSIC/tracks-v1a1/mono.m3u8?token=15732f12901fe82f4cdb923910a76e2f42ef96a3-7f0dfecc882e5b03af26e1f554919d51-1731305419-1731262219
 #EXTINF:-1 group-title="MUSICAS",Qwest TV ᴴᴰ 🟢
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8?ROGERIOTORRES
-#EXTINF:-1 group-title="MUSICAS",NOW 70s ᴴᴰ 🟢
-https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS",NOW 80s ᴴᴰ 🟢
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS",NOW 90s ᴴᴰ 🟢
@@ -819,8 +757,6 @@ https://video09.logicahost.com.br/tvcaravelas/tvcaravelas/chunklist_w233430105.m
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES",Com Brasil ᴴᴰ 🟢
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist.m3u8?ROGERIOTORRES
-#EXTINF:-1 group-title="VARIEDADES",Cultne TV ᴴᴰ 🟢
-https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES",D+TV ᴴᴰ 🟢
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES",Elytv 🟢
@@ -877,48 +813,19 @@ https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?ROGERIOTORRES
 https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/chunklist_w919877190_b1000000_slen.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES",Via Morena ᴴᴰ 🟢
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/chunklist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS: PREMIERE ⚽",PREMIERE CLUBES (SD)
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13583.m3u8
-
 #EXTINF:-1 group-title="CANAIS: PREMIERE ⚽",PREMIERE 2 HD
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/69028.m3u8
-
 #EXTINF:-1 group-title="CANAIS: PREMIERE ⚽",PREMIERE 3 HD
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/69031.m3u8
-
 #EXTINF:-1 group-title="CANAIS: PREMIERE ⚽",PREMIERE 4 HD ¹
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/108298.m3u8
-
 #EXTINF:-1 group-title="CANAIS: PREMIERE ⚽",PREMIERE 5 HD
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/108303.m3u8
-
 #EXTINF:-1 group-title="CANAIS: PREMIERE ⚽",PREMIERE 6 HD
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/108309.m3u8
-
 #EXTINF:-1 group-title="CANAIS: PREMIERE ⚽",PREMIERE 7 HD
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/108315.m3u8
-
 #EXTINF:-1 group-title="CANAIS: PREMIERE ⚽",PREMIERE 8 HD
 http://governosptx.org:80/3llohwk4g9/kwf099q30o/13582.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
